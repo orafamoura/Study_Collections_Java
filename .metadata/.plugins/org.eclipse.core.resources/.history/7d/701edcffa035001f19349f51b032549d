@@ -1,0 +1,14 @@
+package collections;
+
+import java.util.HashSet;
+import java.util.Set;
+
+public class conjuntoCorreto {
+	// passando String, voce fala que a lista vai ser somente de Strings
+	Set<String> lsita = new HashSet<String>();
+	
+	
+	
+	
+	
+}

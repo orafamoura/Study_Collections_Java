@@ -1,0 +1,18 @@
+package collections;
+
+import java.util.HashSet;
+import java.util.Set;
+
+public class conjuntoCorreto {
+
+	public static void main(String[] args) {
+
+		// passando String, voce fala que a lista vai ser somente de Strings
+		Set<String> lista = new HashSet<String>();
+		lista.add("Ana");
+		lista.add("Carlos");
+		lista.add("Luca");
+		lista.add("Pedro");
+				
+	}
+}

@@ -1,0 +1,20 @@
+package mapCollections;
+
+import java.util.HashMap;
+import java.util.Map;
+
+public class Mapa {
+
+	public static void main(String[] args) {
+		
+		//supondo como se fosse id e o nome do usuario
+		Map<Integer, String> usuarios = new HashMap<Integer, String>();
+		
+		usuarios.put(1, "Roberto");
+		usuarios.put(2,  "Maria");
+		
+		
+	}
+	
+	
+}
